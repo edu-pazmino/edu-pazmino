@@ -1,4 +1,4 @@
-### Hi, I'm Edu
+# Hi, I'm Edu
 
 I'm a full-stack developer based in Barcelona, building tools for developers.
 
